@@ -39,7 +39,9 @@ to make the app acceibu to you with out using distrobox run
 
 
 
+apt-get install desktop-file-utils
 
+pip3 install PyGObject
 
 
 
